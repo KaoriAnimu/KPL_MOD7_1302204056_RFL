@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\KPL_MOD7\obj\Debug\net6.0\KPL_MOD7.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\KPL_MOD7\obj\Debug\net6.0\KPL_MOD7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\KPL_MOD7\obj\Debug\net6.0\KPL_MOD7.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KPL_MOD7\obj\Debug\net6.0\KPL_MOD7.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KPL_MOD7\obj\Debug\net6.0\KPL_MOD7.csproj.CoreCompileInputs.cache
